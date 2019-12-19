@@ -12230,7 +12230,7 @@ canvas {
   height: 55px;
   padding: 0;
   margin: 0;
-  background-color: #edc7de;
+  background-color: #fff;
   border-bottom: 1px solid #c8ced3;
 }
 
@@ -12677,7 +12677,7 @@ canvas {
   flex-direction: column;
   padding: 0;
   color: #fff;
-  background: #2f353a;
+  background: #000;
 }
 
 .sidebar .sidebar-close {
