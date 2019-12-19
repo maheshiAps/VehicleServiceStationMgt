@@ -17,7 +17,7 @@ include '../system/dbcon.php';
                 <div class="card">
                   <div class="card-header">
                     <h2>Appointment Management</h2>
-                    <a href="CustomerAppointmentViews.php" class="btn btn-danger btn-sm fa fa-eye">Views</a>
+                    <a href="appointmentsviewss.php" class="btn btn-danger btn-sm fa fa-eye">Views</a>
                      
                   </div>
 

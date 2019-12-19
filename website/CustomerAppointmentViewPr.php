@@ -37,7 +37,7 @@ include 'webheader.php';
                   		<h2>Appointment Managements</h2>
                   	<div class="form-group row">
                   		<div class="col-4">
-                    	<a href="Viewsappointments.php" class="btn btn-danger btn-sm fa fa-eye">Views</a>
+                    	<a href="appointmentsviewss.php" class="btn btn-danger btn-sm fa fa-eye">Views</a>
                     	</div>
                     	<div class="col-4"></div>
                     	

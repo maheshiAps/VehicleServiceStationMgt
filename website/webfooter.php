@@ -10,6 +10,7 @@
 <script src="../assets/vendors/jquery/js/popper.min.js"></script>
 <script src="../assets/vendors/jquery/js/bootstrap.min.js"></script>
 <script src="../assets/vendors/jquery/js/pace.min.js"></script>
+<script src="../assets/js/jquery.model.min.js"></script>
 <script src="../assets/vendors/jquery/js/perfect-scrollbar.min.js"></script>
 <script src="../assets/vendors/jquery/js/coreui.min.js"></script>
 <script>

@@ -107,13 +107,16 @@ if(!$user){
               </a>
             </li>
           
-    
+          <li class="nav-item">
+              <a class="nav-link" href="CustomerView.php">
+                <i class="fa fa-user"></i> My Profile</a>
+            </li>
            <li class="nav-item">
               <a class="nav-link" href="CustomerAppointmentAdd.php">
                 <i class="fa fa-automobile"></i> Add apppointments</a>
             </li>
            <li class="nav-item">
-              <a class="nav-link" href="ViewsAppointments.php">
+              <a class="nav-link" href="appointmentsviewss.php">
                 <i class="fa fa-calendar"></i> My Appointments</a>
             </li>
            <li class="nav-item">
